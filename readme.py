@@ -11,5 +11,5 @@ def fibonacci(n, second_last, last):
 if __name__ == "__main__":
 	print(fibonacci(10, 0, 1))
 
-# This code is contributed by Manan Tyagi.
+# This code is contributed by Hassan Jalal
 
